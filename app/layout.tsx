@@ -11,7 +11,7 @@ const COMMIT_ID = process
   .trim();
 
 export const metadata = {
-  title: "ChatGPT Next Web",
+  title: "ChatGPT AHUT CSIS",
   description: "Your personal ChatGPT Chat Bot.",
 };
 
